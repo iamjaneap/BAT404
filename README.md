@@ -15,6 +15,8 @@ Slow service is a common management issue that coffee shop owners encounter, par
 
 
 ## Significance of the Proposed Project
+This study involved the increasing customer’s loyalty system for the One Million Milk tea and Coffee Shop. The shop still has some shortcomings when it comes to a foolproof way to improve the customer loyalty strategy to hear straight from the source. Without customers’ honest opinions, it’ll take longer to cultivate a loyal audience. To ensure they enjoy their experience with your brand and will come back to collect consumer feedback.
+Increasing Customer’s Loyalty for the customers of One Million Milk tea and Coffee shops would be a great tool for the shop to make their business effective. Also, it provided a solution to the stated problem by enhancing the current study. This study provides an increasing customer’s loyalty of the One Million Milk tea and Coffee Shop. It also provided a personalized thank you card, access to a special event or increased loyalty points are some of the ways to show your gratitude towards customers for their business.
 
 **To the Shop Owner.**
 This study will help the shop owner to be aware the marketing strategies and shop category that can sustain the business.
@@ -22,11 +24,13 @@ This study will help the shop owner to be aware the marketing strategies and sho
 **To the Customers and Clients.**
 This study will help the customers to know the backlogs of the shop and the environment of it to maintain the cleanliness and peaceful of the place.
 
+**To the Future Researchers.**
+This study can use this market research as guide and reference material indoing their own problem or study. Business Students will learn a competitive advantage and it will also serve a future reference to inspire them to build their own business someday. 
+
 ## Methods
 
 The researchers will use a Causal Analysis to achieve their goals. A Causal Analysis looks at the cause and effect of relationships between variables, with a focus on finding the cause of a correlation. To find the cause, you must question whether the observed correlations driving your conclusion are valid, as simply looking at the data surface won't help you discover the hidden mechanisms underlying the correlations. The observed relationships are simply average effects of the entire population in this research, which are studied in aggregate by many groups meaning the results might not apply to everyone.
 
 
 ## Expected Output
-This study involved the increasing customer’s loyalty system for the One Million Milk tea and Coffee Shop. The shop still has some shortcomings when it comes to a foolproof way to improve the customer loyalty strategy to hear straight from the source. Without customers’ honest opinions, it’ll take longer to cultivate a loyal audience. To ensure they enjoy their experience with your brand and will come back to collect consumer feedback.
-Increasing Customer’s Loyalty for the customers of One Million Milk tea and Coffee shops would be a great tool for the shop to make their business effective. Also, it provided a solution to the stated problem by enhancing the current study. This study provides an increasing customer’s loyalty of the One Million Milk tea and Coffee Shop. It also provided a personalized thank you card, access to a special event or increased loyalty points are some of the ways to show your gratitude towards customers for their business.
+The result of this study will be beneficial to the retail industry for them to know if they meet the satisfactory of their customers. They will also have an idea of what people like and what brand to sell to the end user or consumer. Consumers will become curious due to information they will get from this research. When they know about milk tea products, they have the power to decide if they will buy milktea or not. Popularity of a brand and taste are important.
