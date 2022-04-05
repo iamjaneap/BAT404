@@ -16,10 +16,10 @@ Slow service is a common management issue that coffee shop owners encounter, par
 
 ## Significance of the Proposed Project
 
-**To the Shop Owner**
+**To the Shop Owner.**
 This study will help the shop owner to be aware the marketing strategies and shop category that can sustain the business.
 
-**To the Customers and Clients**
+**To the Customers and Clients.**
 This study will help the customers to know the backlogs of the shop and the environment of it to maintain the cleanliness and peaceful of the place.
 
 ## Methods
