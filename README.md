@@ -15,22 +15,21 @@ Slow service is a common management issue that coffee shop owners encounter, par
 
 
 ## Significance of the Proposed Project
-This study involved the increasing customer’s loyalty system for the One Million Milk tea and Coffee Shop. The shop still has some shortcomings when it comes to a foolproof way to improve the customer loyalty strategy to hear straight from the source. Without customers’ honest opinions, it’ll take longer to cultivate a loyal audience. To ensure they enjoy their experience with your brand and will come back to collect consumer feedback.
-Increasing Customer’s Loyalty for the customers of One Million Milk tea and Coffee shops would be a great tool for the shop to make their business effective. Also, it provided a solution to the stated problem by enhancing the current study. This study provides an increasing customer’s loyalty of the One Million Milk tea and Coffee Shop. It also provided a personalized thank you card, access to a special event or increased loyalty points are some of the ways to show your gratitude towards customers for their business.
 
-**To the Shop Owner.**
-This study will help the shop owner to be aware the marketing strategies and shop category that can sustain the business.
+**For the Students.** The significance of this study is to help students, most specifically for marketing students to further understand what marketing strategy is. This is to help them have an idea on how to formulate a good and effective marketing strategy just like what the selected milk tea shops implemented. This study will also heighten their capability of employing their knowledge to the business world and as a part of their daily practices.
 
-**To the Customers and Clients.**
-This study will help the customers to know the backlogs of the shop and the environment of it to maintain the cleanliness and peaceful of the place.
+**For the Customers.** This study will help the customers on their consuming behavior, giving them knowledge on how the milk tea shops are being operated. It may help customers to be aware and to be informed about the marketing strategies used by selected milk a tea shop that influences them in making a decision on where to buy. This will help them realize how these marketing strategies affect their behavior.
 
-**To the Future Researchers.**
-This study can use this market research as guide and reference material indoing their own problem or study. Business Students will learn a competitive advantage and it will also serve a future reference to inspire them to build their own business someday. 
+**For the Business Owners.** This study will benefit an individual as an eye opener on how they can operate their business. It is also beneficial for entrepreneurs, to help them in formulating and applying the most effective marketing strategies that is used by successful milk tea shops in order to gain larger profit and for the betterment of the strategies that they are using. This will help them have an idea on how they can adapt these strategies to their own business.
+
+**For the Marketing Staff.** This study will help the marketing staff in knowing if they are meeting the satisfaction and expectations of the consumers. They will also have an idea of what people like, what to sell and raise new ideas for the betterment of the strategy that they can use to their businesses.
+
+**For the Future Researchers.** This study will help the future researchers as a basis for further study about marketing strategies of milk tea shops. They can also use this study as their reference and as their guide in doing their own study. They can also use the presented ideas as reference data in conducting a new research or in testing the validity of other related findings.
 
 ## Methods
 
 The researchers will use a Causal Analysis to achieve their goals. A Causal Analysis looks at the cause and effect of relationships between variables, with a focus on finding the cause of a correlation. To find the cause, you must question whether the observed correlations driving your conclusion are valid, as simply looking at the data surface won't help you discover the hidden mechanisms underlying the correlations. The observed relationships are simply average effects of the entire population in this research, which are studied in aggregate by many groups meaning the results might not apply to everyone.
 
-
 ## Expected Output
-The result of this study will be beneficial to the retail industry for them to know if they meet the satisfactory of their customers. They will also have an idea of what people like and what brand to sell to the end user or consumer. Consumers will become curious due to information they will get from this research. When they know about milk tea products, they have the power to decide if they will buy milktea or not. Popularity of a brand and taste are important.
+This study involved the increasing customer’s loyalty system for the One Million Milk tea and Coffee Shop. The shop still has some shortcomings when it comes to a foolproof way to improve the customer loyalty strategy to hear straight from the source. Without customers’ honest opinions, it’ll take longer to cultivate a loyal audience. To ensure they enjoy their experience with your brand and will come back to collect consumer feedback.
+Increasing Customer’s Loyalty for the customers of One Million Milk tea and Coffee shops would be a great tool for the shop to make their business effective. Also, it provided a solution to the stated problem by enhancing the current study. This study provides an increasing customer’s loyalty of the One Million Milk tea and Coffee Shop. It also provided a personalized thank you card, access to a special event or increased loyalty points are some of the ways to show your gratitude towards customers for their business.
