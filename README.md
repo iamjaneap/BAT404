@@ -1,3 +1,5 @@
+![10mb](https://user-images.githubusercontent.com/102911931/171021592-65988904-b145-4d37-93ce-1f9384046fe8.png)
+
 # Increasing Customer's Loyalty in a Milktea and Coffee Shop
 
 ## Introduction
@@ -13,6 +15,9 @@ This entails figuring out who you want to attract as a consumer. Do you want to 
 A customer's favorite milk tea and coffee is made perfectly one day then tastes terrible the next, don't expect him to return. Customers will only return if they are consistently served delicious drinks and receive exceptional service.
 Slow service is a common management issue that coffee shop owners encounter, particularly in locations that offer a wide range of personalized coffee mixes. The answer is yet another efficient POS system that because it is built for use in food service contexts and preferable, can be tailored expressly for Milktea and coffee shops delivers on the promise of speed. The best POS systems also make management easier by tracking customer information, forecasting staffing needs using traffic patterns, adjusting pricing, generating actionable reports facilitating tip reconciliation and integrating with other solutions, such as accounting software. One common management-related problem faced by coffee shop owners is slow service, especially in establishments that offer a variety of customized coffee preparations.
 
+## Goal 8: Promote inclusive and sustainable economic growth, employment and decent work for all
+
+![sdg8](https://user-images.githubusercontent.com/102911931/171022001-5e4cfe4b-a19e-47f7-a73e-3d5d34100719.jpg)
 
 ## Significance of the Proposed Project
 
