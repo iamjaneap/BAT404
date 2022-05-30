@@ -17,7 +17,7 @@ Slow service is a common management issue that coffee shop owners encounter, par
 
 ## Goal 8: Promote inclusive and sustainable economic growth, employment and decent work for all
 
-![sdg8](https://user-images.githubusercontent.com/102911931/171022001-5e4cfe4b-a19e-47f7-a73e-3d5d34100719.jpg)
+<![sdg8] "https://user-images.githubusercontent.com/102911931/171022001-5e4cfe4b-a19e-47f7-a73e-3d5d34100719.jpg" " width="250" height="250" />
 
 ## Significance of the Proposed Project
 
