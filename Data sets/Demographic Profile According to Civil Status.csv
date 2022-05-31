@@ -1,7 +1,5 @@
-PROFILE VARIABLE,,,
-CIVIL STATUS,,F,%
-,,,
-Single,,5,63%
-Married,,2,25%
-Widow/Widower,,1,12%
-Separated,,0,0%
+CIVIL STATUS,F,%
+Single,5,63%
+Married,2,25%
+Widow/Widower,1,12%
+Separated,0,0%
