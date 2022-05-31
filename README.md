@@ -15,7 +15,7 @@ This entails figuring out who you want to attract as a consumer. Do you want to 
 A customer's favorite milk tea and coffee is made perfectly one day then tastes terrible the next, don't expect him to return. Customers will only return if they are consistently served delicious drinks and receive exceptional service.
 Slow service is a common management issue that coffee shop owners encounter, particularly in locations that offer a wide range of personalized coffee mixes. The answer is yet another efficient POS system that because it is built for use in food service contexts and preferable, can be tailored expressly for Milktea and coffee shops delivers on the promise of speed. The best POS systems also make management easier by tracking customer information, forecasting staffing needs using traffic patterns, adjusting pricing, generating actionable reports facilitating tip reconciliation and integrating with other solutions, such as accounting software. One common management-related problem faced by coffee shop owners is slow service, especially in establishments that offer a variety of customized coffee preparations.
 
-## Goal 8: Promote inclusive and sustainable economic growth, employment and decent work for all
+## Goal 8: Sustained and inclusive economic growth can drive progress, create decent jobs for all and improve living standards.
 
 ![sdg-8-grande-en](https://user-images.githubusercontent.com/102911931/171076038-1d014b8c-452d-4483-917b-911942339d24.jpg)
 
