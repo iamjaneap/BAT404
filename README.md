@@ -23,7 +23,7 @@ Slow service is a common management issue that coffee shop owners encounter, par
 ## Significance of the Proposed Project
  
 
- - To the  students, this studay shall seek an idea on how to create a smart and effective marketing plan. It will help them to improve their capacity to use their knowledge in the workplace and as part of their daily practices.
+ - To the  students, this study shall seek an idea on how to create a smart and effective marketing plan. It will help them to improve their capacity to use their knowledge in the workplace and as part of their daily practices.
 
   - To the costumer, this study shall help the costumer to purchasing their decision by providing information on how milktea estblishment function. It will assist them to be aware of and informed about the marketing methods utilize by the certain milktea shops and their purchasing decisions. 
 
