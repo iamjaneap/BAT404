@@ -21,15 +21,15 @@ Slow service is a common management issue that coffee shop owners encounter, par
 ![sdg-8-grande-en](https://user-images.githubusercontent.com/102911931/171076038-1d014b8c-452d-4483-917b-911942339d24.jpg)
 
 ## Significance of the Proposed Project
- This project essential , espicially for the costumer of the 
+ 
 
  - To the  students, this studay shall seek an idea on how to create a smart and effective marketing plan. It will help them to improve their capacity to use their knowledge in the workplace and as part of their daily practices.
 
-- To the costumer, this study shall help the costumer to purchasing their decision by providing information on how milktea estblishment function. It will assist them to be aware of and informed about the marketing methods utilize by the certain milktea shops and their purchasing decisions. 
+  - To the costumer, this study shall help the costumer to purchasing their decision by providing information on how milktea estblishment function. It will assist them to be aware of and informed about the marketing methods utilize by the certain milktea shops and their purchasing decisions. 
 
--To the business owner,this study will benefit for an individual by providing insights into how they can run their business. It will assist them in implementing the most effecient marketing methods employed by successfull milktea shops in order to increase profits and improve the strategies that they are using.
+  -To the business owner,this study will benefit for an individual by providing insights into how they can run their business. It will assist them in implementing the most effecient marketing methods employed by successfull milktea shops in order to increase profits and improve the strategies that they are using.
 
--To he marketing staff, this sutdy shall helps the costumer to reach their satisfaction and expectation. This will help them to have a better understanding of what costumer want for improving the strategy that they can use to to their business.
+  -To he marketing staff, this sutdy shall helps the costumer to reach their satisfaction and expectation. This will help them to have a better understanding of what costumer want for improving the strategy that they can use to to their business.
 
 
 ## Methods
