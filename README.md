@@ -21,16 +21,16 @@ Slow service is a common management issue that coffee shop owners encounter, par
 ![sdg-8-grande-en](https://user-images.githubusercontent.com/102911931/171076038-1d014b8c-452d-4483-917b-911942339d24.jpg)
 
 ## Significance of the Proposed Project
+ This project essential , espicially for the costumer of the 
 
-**For the Students.** The significance of this study is to help students, most specifically for marketing students to further understand what marketing strategy is. This is to help them have an idea on how to formulate a good and effective marketing strategy just like what the selected milk tea shops implemented. This study will also heighten their capability of employing their knowledge to the business world and as a part of their daily practices.
+ - To the  students, this studay shall seek an idea on how to create a smart and effective marketing plan. It will help them to improve their capacity to use their knowledge in the workplace and as part of their daily practices.
 
-**For the Customers.** This study will help the customers on their consuming behavior, giving them knowledge on how the milk tea shops are being operated. It may help customers to be aware and to be informed about the marketing strategies used by selected milk a tea shop that influences them in making a decision on where to buy. This will help them realize how these marketing strategies affect their behavior.Keep a database of all the Coffee and Milktea requests you get and use it to update your menu on a regular basis. There is no better method to satisfy your consumers than to keep track of their real consumption patterns.
+- To the costumer, this study shall help the costumer to purchasing their decision by providing information on how milktea estblishment function. It will assist them to be aware of and informed about the marketing methods utilize by the certain milktea shops and their purchasing decisions. 
 
-**For the Business Owners.** This study will benefit an individual as an eye opener on how they can operate their business. It is also beneficial for entrepreneurs, to help them in formulating and applying the most effective marketing strategies that is used by successful milk tea shops in order to gain larger profit and for the betterment of the strategies that they are using. This will help them have an idea on how they can adapt these strategies to their own business.
+-To the business owner,this study will benefit for an individual by providing insights into how they can run their business. It will assist them in implementing the most effecient marketing methods employed by successfull milktea shops in order to increase profits and improve the strategies that they are using.
 
-**For the Marketing Staff.** This study will help the marketing staff in knowing if they are meeting the satisfaction and expectations of the consumers. They will also have an idea of what people like, what to sell and raise new ideas for the betterment of the strategy that they can use to their businesses.
+-To he marketing staff, this sutdy shall helps the costumer to reach their satisfaction and expectation. This will help them to have a better understanding of what costumer want for improving the strategy that they can use to to their business.
 
-**For the Future Researchers.** This study will help the future researchers as a basis for further study about marketing strategies of milk tea shops. They can also use this study as their reference and as their guide in doing their own study. They can also use the presented ideas as reference data in conducting a new research or in testing the validity of other related findings.
 
 ## Methods
 
