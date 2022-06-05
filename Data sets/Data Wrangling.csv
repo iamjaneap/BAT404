@@ -1,0 +1,197 @@
+##                      Shop             City Distance   Reviewer Price
+## 1              85 Degrees         Alhambra      7.1 Reviewer C  3.00
+## 2               Wushiland      San Gabriel      3.8 Reviewer E  4.74
+## 3               Wushiland      San Gabriel      3.8 Reviewer E  3.99
+## 4               Wushiland      San Gabriel      3.8 Reviewer E  3.99
+## 5               Wushiland      San Gabriel      5.7 Reviewer A  5.74
+## 6               Wushiland      San Gabriel      3.3 Reviewer B  3.99
+## 7                 OinkMoo         Pasadena      7.1 Reviewer B  4.75
+## 8  Nobibi Ice cream & Tea      Chino Hills     18.0 Reviewer B  5.10
+## 9               Vita Cane         Rosemead      2.9 Reviewer C  7.50
+## 10                 Chakaa          Arcadia      5.2 Reviewer D  4.25
+## 11                 Chakaa          Arcadia      4.2 Reviewer B  4.75
+## 12                 Chakaa          Arcadia      6.1 Reviewer C  4.75
+## 13                 Gotcha         Rosemead      1.5 Reviewer B  5.25
+## 14                  Tenju  Rowland Heights     13.0 Reviewer A  5.00
+## 15           A+ tea house      San Gabriel      4.5 Reviewer C  5.00
+## 16             Hello Boba         El Monte      1.3 Reviewer E  4.75
+## 17     4 Season Tea House         Rosemead      3.2 Reviewer C  5.00
+## 18         Unique Tea Bar Hacienda Heights      8.5 Reviewer D  4.45
+## 19    Sunright Tea Studio      Diamond Bar     13.0 Reviewer D  4.75
+## 20    Sunright Tea Studio      Diamond Bar     14.0 Reviewer C  4.75
+## 21               Ding Tea         El Monte      0.9 Reviewer E  4.00
+## 22              Tea Brick    Monterey Park      5.2 Reviewer D  5.95
+## 23        Chun Feng Sugar        Koreatown     13.0 Reviewer B  4.95
+## 24      Dragonfly tea bar  Rowland Heights     12.0 Reviewer D  6.50
+## 25                    FTB      San Gabriel      5.2 Reviewer C  4.25
+## 26                    FTB      San Gabriel      5.5 Reviewer D  4.25
+## 27                    FTB      San Gabriel      5.5 Reviewer D  4.25
+## 28                    FTB      San Gabriel      5.5 Reviewer D  4.25
+## 29                    FTB      San Gabriel      5.8 Reviewer E  4.25
+## 30                    FTB      San Gabriel      4.2 Reviewer B  5.25
+## 31              Wushiland      San Gabriel      3.3 Reviewer B  5.49
+## 32                  Omomo      Chino Hills     18.0 Reviewer B  5.00
+## 33                  Onezo         Pasadena     12.0 Reviewer A  4.31
+## 34                  Onezo         Pasadena      5.7 Reviewer E  5.75
+## 35                  Onezo    Monterey Park      5.0 Reviewer B  5.75
+## 36                Chi Cha      San Gabriel      6.1 Reviewer A  6.25
+## 37                Quickly          Arcadia      3.3 Reviewer A  4.00
+## 38                 Yifang  Rowland Heights      9.8 Reviewer B  5.75
+## 39                 Yifang  Rowland Heights     11.2 Reviewer E  5.75
+## 40           Mom's Bakery         El Monte      1.9 Reviewer C  3.75
+## 41                7Leaves         Alhambra      6.9 Reviewer D  4.40
+## 42                7Leaves         Alhambra     11.0 Reviewer A  4.40
+## 43                7Leaves         Alhambra     11.0 Reviewer A  4.40
+## 44                7Leaves         Alhambra      6.9 Reviewer C  5.00
+## 45            Happy Lemon    Monterey Park      6.6 Reviewer D  5.50
+## 46            Happy Lemon    Monterey Park      6.3 Reviewer C  5.50
+## 47                  Tenju  Rowland Heights     12.0 Reviewer E  5.00
+## 48                  Tenju  Rowland Heights      9.6 Reviewer B  5.00
+## 49             Hello Boba         El Monte      1.6 Reviewer A  4.25
+## 50            Happy Lemon    Monterey Park      5.9 Reviewer E  5.50
+## 51                 Chakaa          Arcadia      5.7 Reviewer A  5.50
+## 52                OinkMoo         Pasadena      9.6 Reviewer E  5.75
+## 53               Feng Cha       Costa Mesa     32.0 Reviewer E  5.00
+## 54          Ono Tea House         El Monte      0.6 Reviewer E  4.50
+## 55    Twinkle Brown Sugar         Alhambra      5.4 Reviewer C  5.45
+## 56               Milk + T     Little Tokyo     11.0 Reviewer B  5.50
+## 57           Bubble Crush    Monterey Park      4.1 Reviewer C  4.75
+## 58           Bubble Crush    Monterey Park      4.1 Reviewer C  5.00
+## 59     4 Season Tea House         Alhambra      3.2 Reviewer C  5.00
+## 60                Ten Ren    Monterey Park      6.2 Reviewer A  5.50
+## 61                 TanCha      San Gabriel      3.4 Reviewer B  5.75
+## 62       Miss Cheese Cafe         Pasadena      7.8 Reviewer B  5.75
+## 63              Neighbors         Rosemead      3.1 Reviewer D  4.00
+## 64              Neighbors         Rosemead      3.1 Reviewer D  4.25
+## 65              Neighbors         Rosemead      2.8 Reviewer C  4.25
+## 66              Dots Cafe          Arcadia      5.8 Reviewer B  4.50
+## 67               Lollicup          Arcadia      6.7 Reviewer C  4.25
+## 68                Yu Cake         Rosemead      2.3 Reviewer B  5.25
+## 69         Nest Tea House          Arcadia      2.9 Reviewer B  4.15
+## 70            Why Thirsty          Arcadia      5.9 Reviewer C  4.50
+## 71            Half & Half    Monterey Park      8.0 Reviewer A  4.25
+## 72               Tea Maru      San Gabriel      6.5 Reviewer A  4.50
+## 73               Boba Box         Monrovia      8.6 Reviewer E  5.50
+## 74               Feng Cha       Costa Mesa     32.0 Reviewer E  4.75
+## 75              Bobacraft         Alhambra      8.6 Reviewer A  3.75
+## 76              Bobacraft         Alhambra      7.1 Reviewer D  4.50
+## 77            Happy Lemon    Monterey Park      5.0 Reviewer B  4.75
+## 78    Twinkle Brown Sugar         Alhambra      5.4 Reviewer C  5.75
+## 79                Moo Tea         Alhambra      3.8 Reviewer B  6.25
+## 80                 Tastea         Alhambra      6.8 Reviewer D  5.50
+## 81          Chami Tea Bar         Whittier      7.8 Reviewer A  5.25
+## 82          Chami Tea Bar         Whittier      5.4 Reviewer D  4.00
+## 83    Sunright Tea Studio      Diamond Bar     13.0 Reviewer D  5.50
+## 84    Sunright Tea Studio      Diamond Bar      8.0 Reviewer A  5.50
+## 85            Bon Appetea      San Gabriel      6.3 Reviewer E  4.25
+## 86              Oh My Pan      San Gabriel      3.9 Reviewer D  3.05
+## 87              Oh My Pan      San Gabriel      3.9 Reviewer D  4.00
+## 88               Boba Ave          Arcadia      6.0 Reviewer D  4.25
+## 89                 Tancca          Arcadia      5.5 Reviewer D  4.25
+## 90                 Tastea         Alhambra      8.6 Reviewer A  5.50
+## 91                  Tenju  Rowland Heights     11.0 Reviewer C  5.50
+## 92          Ono Tea House         El Monte      0.6 Reviewer C  5.50
+## 93          Ono Tea House         El Monte      0.5 Reviewer D  5.50
+## 94              Uncle Tea      West Covina     13.0 Reviewer C  4.25
+## 95                  Tenju  Rowland Heights     12.0 Reviewer D  4.75
+## 96              Wushiland      San Gabriel      4.1 Reviewer C  4.74
+## 97             Cafe Roule         Alhambra      3.1 Reviewer B  4.75
+##                                Drink Name Boba Rating Rank
+## 1                   Sea Salt Mountain Tea   No    9.0    A
+## 2                       Red Bean Milk Tea   No   10.0    A
+## 3                         Assam Black Tea  Yes   10.0    A
+## 4                  Jasmine Green Milk Tea  Yes    8.5    A
+## 5                Ice Cream Green Milk Tea  Yes    8.5    A
+## 6                  Jasmine Green Milk Tea  Yes    9.0    A
+## 7                        Jasmine Milk Tea  Yes    8.0    A
+## 8                               Ube Cloud  Yes    8.0    A
+## 9                        Sugar Cane Juice   No   10.0    A
+## 10                       Jasmine Milk Tea   No    9.0    A
+## 11                       Jasmine Milk Tea  Yes    8.0    A
+## 12     White Peach Oolong w/o cheese foam   No    9.0    A
+## 13                 Brown Sugar Fresh Milk  Yes    8.5    A
+## 14                        Honey Green Tea  Yes   10.0    A
+## 15                        Honey green tea   No   10.0    A
+## 16                       Jasmine Milk Tea  Yes    9.0    A
+## 17                 Jasmine Green Milk Tea   No   10.0    A
+## 18                 Jasmine Green Milk Tea   No   10.0    A
+## 19                 Jasmine Green Milk Tea   No    9.0    A
+## 20                        Ceylon Milk Tea   No    9.0    A
+## 21                         Wintermelon MT  Yes   10.0    A
+## 22                        Mango Snow Milk   No   10.0    A
+## 23                 Brown Sugar Fresh Milk  Yes    8.0    A
+## 24                            Rainbow tea  Yes    9.0    A
+## 25                         Rose Green Tea   No    7.0    B
+## 26                        Almond Milk Tea  Yes   10.0    B
+## 27                      Nom Nom Green Tea  Yes   10.0    B
+## 28                       Jasmine Milk Tea   No    9.0    B
+## 29                       Brown Sugar Milk  Yes    8.0    B
+## 30                          Dirty Nom Nom  Yes    8.0    B
+## 31                       Yogurt Green Tea  Yes    7.8    B
+## 32                           Omomo Matcha  Yes    8.0    B
+## 33                        Honey Green Tea  Yes    7.0    B
+## 34            Brown Sugar Milk @ Pasadena  Yes    3.0    B
+## 35                       Brown Sugar Milk  Yes    8.0    B
+## 36                       Brown Sugar Milk  Yes   11.0    B
+## 37                       Jasmine Milk Tea  Yes    7.5    B
+## 38                       Brown Sugar Milk  Yes    8.0    B
+## 39                       Brown Sugar Milk  Yes    8.0    B
+## 40                       Jasmine Milk Tea   No   10.0    B
+## 41                       Jasmine Milk Tea   No    8.0    B
+## 42                        Mung Bean Drink   No    8.0    B
+## 43                     Hibiscus Tea thing   No    8.3    B
+## 44                             Love Cream   No    7.5    B
+## 45       Jasmine Milk Tea w/ Cheese Foam?   No    8.0    B
+## 46             Black Tea w/ Salted Cheese   No    9.0    B
+## 47                       Jasmine Milk Tea  Yes    8.0    B
+## 48                       Jasmine Milk Tea  Yes    8.0    B
+## 49                       Jasmine Milk Tea  Yes    7.5    B
+## 50                       Brown Sugar Milk  Yes    7.5    B
+## 51                       Brown Sugar Milk  Yes    7.7    B
+## 52                       Brown Sugar Milk  Yes    8.5    B
+## 53                       Brown Sugar Milk  Yes    9.0    B
+## 54                       Brown Sugar Milk  Yes    6.5    B
+## 55                      Chrysanthemum Tea   No    8.0    B
+## 56                             Guilt Trip  Yes    8.0    B
+## 57                 White Peach Oolong Tea   No    7.5    B
+## 58                        Ceylon Milk Tea   No    7.5    B
+## 59                        Mango Green Tea   No    8.0    B
+## 60                            Dirty Latte  Yes    7.5    B
+## 61                    Tiramisu Foam Cocao   No    7.0    C
+## 62                       Brown Sugar milk  Yes    7.0    C
+## 63                              Green Tea   No    3.5    C
+## 64                        Almond Milk Tea   No    4.0    C
+## 65                       Jasmine Milk Tea   No    6.0    C
+## 66                       Lychee Black Tea  Yes    6.5    C
+## 67                        Honey Green Tea  Yes    3.5    C
+## 68                        Fresh Fruit tea   No    5.0    C
+## 69                        Mango Green Tea  Yes    5.0    C
+## 70                       Jasmine milk tea  Yes    4.0    C
+## 71 Ice Milk Drink w/ pudding & honey boba  Yes    8.0    C
+## 72                   Wintermelon milk tea   No    7.5    C
+## 73                         Green Milk Tea  Yes    5.5    C
+## 74                      Jasmine Green Tea   No    5.0    C
+## 75                      Jasmine Green Tea  Yes    3.0    C
+## 76                       Jasmine Milk Tea   No    4.0    C
+## 77                       Yogurt Green Tea  Yes    5.5    C
+## 78                 Jasmine Milk Tea Honey   No    5.0    C
+## 79                  Purple Yam Fresh Milk  Yes    6.0    C
+## 80                        Almond Milk Tea   No    6.5    C
+## 81                  Chami Mixed Fruit Tea   No    4.0    C
+## 82                         Chami Milk Tea   No    3.0    C
+## 83                       Pudding Milk Tea   No    6.0    C
+## 84                       Brown Sugar Milk  Yes    6.5    C
+## 85                         Green Milk Tea   No    5.0    C
+## 86                       Jasmine Milk Tea   No    0.0    F
+## 87                      Lavender Milk Tea   No    0.0    F
+## 88                       Jasmine Milk Tea  Yes    0.0    F
+## 89                            King's Boba  Yes    0.0    F
+## 90                       Brown Sugar Milk  Yes    0.0    F
+## 91                      Lavender Milk Tea   No    0.0    F
+## 92                        Honey Green Tea   No    1.0    F
+## 93                         Green Milk Tea   No    1.0    F
+## 94                        Almond Milk Tea   No    0.0    F
+## 95                        Almond Milk Tea   No    1.0    F
+## 96                      Ovaltine Milk Tea   No    1.0    F
+## 97                       Matcha Green Tea  Yes    1.0    F
+##                                                            
