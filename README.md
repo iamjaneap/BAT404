@@ -4,7 +4,7 @@
 
 ## Introduction
 
-Milk tea can refer to a wide range of teas and tea-based beverages from around the world. Milk tea is, at its most basic, a tea with milk added to it, yet how these delightful beverages are produced varies from country to country and area to region. 
+Milk tea can refer to a wide range of teas and tea-based beverages from around the world. Milk tea is, at its most basic, a tea with milk added to it, yet how these delightful beverages are produced varies from country to country and area to region.To lessen astringency and create a mellow, balanced cup of tea, milk (and sometimes a sweetener like sugar or honey) is sometimes added to robust black teas.
 
 Nowadays, when it comes to milk tea there are so many competitors that encounter because of the in-demand business that researchers create a loyalty program to increase customers and to be consistent. When customers are consistent with the brand of milk tea the best ways to continue that relationship is by recognizing and rewarding it. That's why loyalty programs are a great way to show the repetition of customers' appreciation of the milk tea and continue to come back.
 In response to the aforementioned problem, the researchers created an Increasing Customer Loyalty in Milk Tea and Coffee shop designed to incentive repeat purchases by providing its member discounts, unique offers, VIP events and more. The primary purpose of this program is to keep customers coming back for more . Through this, the customer will attract a new customer, retain existing customer, reactivate dormant customer and nudge them to spend more.
