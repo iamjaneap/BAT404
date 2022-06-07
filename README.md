@@ -8,8 +8,6 @@ Milk tea can refer to a wide range of teas and tea-based beverages from around t
 Nowadays, when it comes to milk tea there are so many competitors that encounter because of the in-demand business that researchers create a loyalty program to increase customers and to be consistent. When customers are consistent with the brand of milk tea the best ways to continue that relationship is by recognizing and rewarding it. That's why loyalty programs are a great way to show the repetition of customers' appreciation of the milk tea and continue to come back.
 In response to the aforementioned problem, the researchers created an Increasing Customer Loyalty in Milk Tea and Coffee shop designed to incentive repeat purchases by providing its member discounts, unique offers, VIP events and more. The primary purpose of this program is to keep customers coming back for more . Through this, the customer will attract a new customer, retain existing customer, reactivate dormant customer and nudge them to spend more.
 
-  	
-
 ## Problem Statement
 Milktea and Coffee shop owners find it increasingly difficult to remain in business because of intense competition and the vagaries of customer preferences. The general business problem is that some small business owners are unable to survive during the first 5 years of operation. The specific business problem is that some milk tea and coffee shop owners lack the marketing strategies to sustain business operations.
 
@@ -25,11 +23,11 @@ Our SDG aligned on Increasing Loyalty costumer that will provide a information a
 ## Significance of the Proposed Project
  - To the  students, this study shall seek an idea on how to create a smart and effective marketing plan. It will help them to improve their capacity to use their knowledge in the workplace and as part of their daily practices.
 
-  - To the costumer, this study shall help the costumer to purchasing their decision by providing information on how milktea estblishment function. It will assist them to be aware of and informed about the marketing methods utilize by the certain milktea shops and their purchasing decisions. 
+ - To the costumer, this study shall help the costumer to purchasing their decision by providing information on how milktea estblishment function. It will assist them to be aware of and informed about the marketing methods utilize by the certain milktea shops and their purchasing decisions. 
 
-  - To the business owner,this study will benefit for an individual by providing insights into how they can run their business. It will assist them in implementing the most effecient marketing methods employed by successfull milktea shops in order to increase profits and improve the strategies that they are using.
+ - To the business owner,this study will benefit for an individual by providing insights into how they can run their business. It will assist them in implementing the most effecient marketing methods employed by successfull milktea shops in order to increase profits and improve the strategies that they are using.
   
-  - To he marketing staff, this sutdy shall helps the costumer to reach their satisfaction and expectation. This will help them to have a better understanding of what costumer want for improving the strategy that they can use to to their business.
+ - To he marketing staff, this sutdy shall helps the costumer to reach their satisfaction and expectation. This will help them to have a better understanding of what costumer want for improving the strategy that they can use to to their business.
 
 
 ## Methods
@@ -40,5 +38,5 @@ This study involved the increasing customer’s loyalty system for the Milk tea 
 Increasing Customer’s Loyalty for the customers of Milk tea and Coffee shops would be a great tool for the shop to make their business effective. Also, it provided a solution to the stated problem by enhancing the current study. This study provides an increasing customer’s loyalty of the Milk tea and Coffee Shop. It also provided a personalized thank you card, access to a special event or increased loyalty points are some of the ways to show your gratitude towards customers for their business.
 
 ## Video Presentation Links:
-Live Presentation: https://youtu.be/fshTVMnYe0o
+Live Presentation: https://youtu.be/fshTVMnYe0o <br>
 Final Presentation: https://youtu.be/ZFb02EfY_ss
