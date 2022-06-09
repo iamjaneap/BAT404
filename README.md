@@ -42,3 +42,11 @@ Increasing Customer’s Loyalty for the customers of Milk tea and Coffee shops w
 ## Video Presentation Links:
 Live Presentation: https://youtu.be/fshTVMnYe0o <br>
 Final Presentation: https://youtu.be/ZFb02EfY_ss
+
+## Members
+Ebora, Joshua <br>
+Manalo, Jerald <br>
+Manalo, Jerome <br>
+Mirano, Jacob <br>
+Apquis, Karylle Jane <br>
+IT BA 3205
